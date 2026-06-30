@@ -64,6 +64,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
