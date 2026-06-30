@@ -8,6 +8,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
@@ -18,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
@@ -65,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
