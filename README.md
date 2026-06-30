@@ -6,6 +6,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0876-middle-of-the-linked-list) |
@@ -19,6 +20,7 @@
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
@@ -78,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
