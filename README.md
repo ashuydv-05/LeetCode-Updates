@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
@@ -85,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
