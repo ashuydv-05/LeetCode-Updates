@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0318-maximum-product-of-word-lengths) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -86,4 +88,16 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
