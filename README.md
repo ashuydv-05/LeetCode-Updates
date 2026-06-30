@@ -170,4 +170,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
