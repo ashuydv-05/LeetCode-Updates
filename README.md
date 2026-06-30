@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0141-linked-list-cycle) |
@@ -20,6 +21,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0141-linked-list-cycle) |
