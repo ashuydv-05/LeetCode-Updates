@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
@@ -41,4 +42,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
