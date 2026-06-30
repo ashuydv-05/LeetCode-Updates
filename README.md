@@ -28,6 +28,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0318-maximum-product-of-word-lengths) |
+| [0704-binary-search](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
