@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0033-search-in-rotated-sorted-array) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0160-intersection-of-two-linked-lists) |
