@@ -43,6 +43,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
