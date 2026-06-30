@@ -45,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
+| [2427-number-of-common-factors](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/2427-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -108,4 +109,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
