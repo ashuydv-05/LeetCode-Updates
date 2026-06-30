@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
 ## Array
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
