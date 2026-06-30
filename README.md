@@ -6,6 +6,7 @@
 | ------- |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
