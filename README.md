@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0318-maximum-product-of-word-lengths) |
 ## Dynamic Programming
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0187-repeated-dna-sequences) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
