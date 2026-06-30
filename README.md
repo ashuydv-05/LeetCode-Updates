@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0187-repeated-dna-sequences) |
