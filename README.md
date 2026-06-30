@@ -24,6 +24,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
