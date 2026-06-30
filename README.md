@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
@@ -154,6 +155,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
