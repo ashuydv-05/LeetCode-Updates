@@ -41,6 +41,15 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
