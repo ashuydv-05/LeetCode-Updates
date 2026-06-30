@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
 | [2427-number-of-common-factors](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/2427-number-of-common-factors) |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
