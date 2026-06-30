@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0142-linked-list-cycle-ii) |
