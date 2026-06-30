@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
 ## Array
@@ -41,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
