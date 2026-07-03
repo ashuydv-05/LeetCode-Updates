@@ -51,6 +51,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0318-maximum-product-of-word-lengths) |
+| [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -64,11 +65,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
