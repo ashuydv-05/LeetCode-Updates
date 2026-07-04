@@ -53,6 +53,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0318-maximum-product-of-word-lengths) |
 | [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,12 +67,14 @@
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
