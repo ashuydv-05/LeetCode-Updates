@@ -88,6 +88,7 @@
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
 | [2427-number-of-common-factors](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/2427-number-of-common-factors) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
