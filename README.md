@@ -89,6 +89,7 @@
 | [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
 | [2427-number-of-common-factors](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/2427-number-of-common-factors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0901-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
