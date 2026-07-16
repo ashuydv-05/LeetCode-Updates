@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0503-next-greater-element-ii) |
@@ -204,4 +205,16 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
