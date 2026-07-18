@@ -55,6 +55,7 @@
 | [0503-next-greater-element-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0739-daily-temperatures) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0050-powx-n](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0412-fizz-buzz) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/2427-number-of-common-factors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -172,6 +174,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/2427-number-of-common-factors) |
 ## Backtracking
 |  |
