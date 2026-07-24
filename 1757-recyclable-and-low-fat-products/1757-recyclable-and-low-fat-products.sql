@@ -1,5 +1,2 @@
-# Write your MySQL query statement below
-SELECT product_id
-FROM Products
-WHERE low_fats = 'Y'
-  AND recyclable = 'Y';
+-- USE Products;
+SELECT product_id FROM Products WHERE low_fats ='Y' AND recyclable = 'Y';
