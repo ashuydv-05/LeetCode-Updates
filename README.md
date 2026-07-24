@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0182-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1757-recyclable-and-low-fat-products) |
 ## Design
 |  |
