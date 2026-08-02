@@ -27,6 +27,7 @@ class Solution {
         sum = Math.max(sum,root.val + left_sum+ right_sum);
 
         return root.val + Math.max(left_sum , right_sum);
+        // return root.val + left_sum + right_sum;
 
 
 
