@@ -48,6 +48,7 @@
 | [0053-maximum-subarray](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0318-maximum-product-of-word-lengths) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0160-intersection-of-two-linked-lists) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -220,6 +223,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0113-path-sum-ii) |
@@ -248,6 +252,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0113-path-sum-ii) |
