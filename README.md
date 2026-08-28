@@ -56,6 +56,7 @@
 | [0496-next-greater-element-i](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0739-daily-temperatures) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -218,6 +219,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/0724-find-pivot-index) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashuydv-05/LeetCode-Updates/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
